@@ -1,7 +1,6 @@
-package pluralsight;
+package com.pluralsight;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 import java.util.stream.Collectors;
 
 public class MainApp {
